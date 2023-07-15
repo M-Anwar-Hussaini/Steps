@@ -2,6 +2,7 @@
 
 # Settings
 .vscode
+/Projects
 
 # dependencies
 /node_modules
